@@ -1,16 +1,22 @@
-### Hi there 👋
+# About Me
 
-<!--
-**amit-mainemer/amit-mainemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mission-driven full stack developer with a passion for great software
+and clean UI.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Javascript - es6+ , Node.js, React, Vue.js
+* PHP - Laravel, Blade.
+* databases- MySql, Mongodb
+* Git
+* HTML5, CSS3, Bootstrap, vuetify, material design.
+
+
+## Portfolio
+
+### Cywar
+Work on the team as full stack engineer  
+[https://cywar.hackeru.com](https://cywar.hackeru.com)
+### Basket World
+Final project for web development course a fully custmizble e-commerce  
+[http://basket-world.amitmainemer.com](http://basket-world.amitmainemer.com)
