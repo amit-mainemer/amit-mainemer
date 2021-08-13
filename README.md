@@ -15,7 +15,7 @@ and clean UI.
 ## Portfolio
 
 ### Cywar
-Work on the team as full stack engineer  
+Work on the team as a full stack engineer  
 [https://cywar.hackeru.com](https://cywar.hackeru.com)
 ### Basket World
 Final project for web development course a fully custmizble e-commerce  
