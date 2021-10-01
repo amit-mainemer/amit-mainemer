@@ -5,9 +5,9 @@ and clean UI.
 
 ## Skills
 
-* Javascript - es6+ , Node.js, React, Vue.js
+* Javascript - Typescript, Node.js, React, Vue.js.
 * PHP - Laravel, Blade.
-* databases- MySql, Mongodb
+* Databases- MySql, Mongodb
 * Git
 * HTML5, CSS3, Bootstrap, vuetify, material design.
 
