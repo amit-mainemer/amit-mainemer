@@ -9,7 +9,7 @@ and clean UI.
 * PHP - Composer, Laravel, Blade.
 * Databases - MySql, Mongodb.
 * Version control - Git (Github, Bitbucket).
-* Web Frontend - HTML5, CSS3, Bootstrap, Material design.
+* Web Frontend - HTML5, CSS3, SASS, Bootstrap, Material design.
 * Other - Webscockets, CI/CD piplines, Testing (TDD, Unit, Feature).
 
 ## Portfolio
