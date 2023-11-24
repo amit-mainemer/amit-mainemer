@@ -14,8 +14,6 @@ and clean UI.
 
 ## Portfolio
 
-### Personal Site
-[http://amitmainemer.com](http://amitmainemer.com)
 ### Cywar
 Work on the team as a full stack developer  
 [https://cywar.hackeru.com](https://cywar.hackeru.com)
