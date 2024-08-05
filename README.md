@@ -5,9 +5,9 @@ and clean UI.
 
 ## Skills
 
-* Languages: TypeScript, JavaScript, Python, PHP, Golang, SQL.
-* Frontend Frameworks: React, Vue, CSS, SCSS.
-* Backend Frameworks: Laravel, Flask, Node.js.
+* Languages: TypeScript, JavaScript, Python, PHP, Golang.
+* Frontend Frameworks: React, Vue.
+* Backend Frameworks:  Node.js, Next, Laravel, Flask.
 * Databases: MongoDB, PostgreSQL, MySQL, Redis.
 * DevOps: Docker, Docker Compose, Kubernetes, ELK Stack, Pylint, Pytest.
 * Other: Linux, Git, Bash, Kafka.
