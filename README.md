@@ -5,9 +5,9 @@ and clean UI.
 
 ## Skills
 
-* Javascript - Typescript, Node.js, React, Vue.js.
-* PHP - Composer, Laravel, Blade.
-* Databases - MySql, Mongodb.
-* Version control - Git (Github, Bitbucket).
-* Web Frontend - HTML5, CSS3, SASS, Bootstrap, Material design.
-* Other - Webscockets, CI/CD piplines, Testing (TDD, Unit, Feature).
+* Languages: TypeScript, JavaScript, Python, PHP, Golang, SQL.
+* Frontend Frameworks: React, Vue, CSS, SCSS.
+* Backend Frameworks: Laravel, Flask, Node.js.
+* Databases: MongoDB, PostgreSQL, MySQL, Redis.
+* DevOps: Docker, Docker Compose, Kubernetes, ELK Stack, Pylint, Pytest.
+* Other: Linux, Git, Bash, Kafka.
